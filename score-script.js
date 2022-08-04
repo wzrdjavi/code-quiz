@@ -14,7 +14,7 @@ var loadScores = function() {
 
         return false;
     }
-
+// hello
     highScores = JSON.parse(highScores);
     highScores.sort(compare);
 }
